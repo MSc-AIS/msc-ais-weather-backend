@@ -10,7 +10,5 @@
 - then add it as a dependency to your project
 
 dependencies {
-    ...    
-    // ms-weather library
     implementation("msc.ais.weather:weather-lib:1.0.1")
 }
